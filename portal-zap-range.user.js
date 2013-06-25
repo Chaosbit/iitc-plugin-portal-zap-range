@@ -4,9 +4,9 @@
 // @category       Layer
 // @version        0.0.1.20130625.103406
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      @@UPDATEURL@@
-// @downloadURL    @@DOWNLOADURL@@
-// @description    [@@BUILDNAME@@-@@BUILDDATE@@] Show portal level numbers on map.
+// @updateURL      https://github.com/Chaosbit/iitc-plugin-portal-zap-range/blob/master/portal-zap-range.user.js
+// @downloadURL    https://github.com/Chaosbit/iitc-plugin-portal-zap-range/blob/master/portal-zap-range.user.js
+// @description    [chaosbit-2013-06-25-103406] Show an portal zap range indicator on map.
 // @include        https://www.ingress.com/intel*
 // @include        http://www.ingress.com/intel*
 // @match          https://www.ingress.com/intel*
